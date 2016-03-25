@@ -12,4 +12,10 @@
     <string name="cube_ptr_minutes_ago">&#160;minutes ago</string>
     <string name="cube_ptr_hours_ago">&#160;hours ago</string>
 
+    <string name="cube_views_load_more_loading">loading...</string>
+    <string name="cube_views_load_more_click_to_load_more">Click to load more</string>
+    <string name="cube_views_load_more_loaded_no_more">All the data has been loaded</string>
+    <string name="cube_views_load_more_loaded_empty">It is empty. :(</string>
+    <string name="cube_views_load_more_error">Load error, click to retry</string>
+
 </resources>
